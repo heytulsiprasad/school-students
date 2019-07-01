@@ -7,7 +7,7 @@ from contxtmgr import DatabaseManager
 # here, the user gets a prompt to do the following things
 # 'add' | add students to the database
 # 'delete' | delete students from the database
-# 'find' | find students from databse
+# 'find' | find students from database
 # 'update' | update the student details
 # 'quit' | exit the program
 # prompt when user quits to give some feedback
